@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...speed
 - ⚡ Fun fact: ...i am speed 
 - meeting every morning in library! and b lunch!
-<!--
+- DO NOT EDIT GIT HUB REPOSITRIES :::::::: DO NOT MESS WITH SETTINGS ::::::
 impossible0games/impossible0games is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
